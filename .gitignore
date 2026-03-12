@@ -1,0 +1,10 @@
+# Node modules
+node_modules/
+.next/
+dist/
+
+# Angular / Next / build outputs
+dist/
+.next/
+out/
+
